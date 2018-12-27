@@ -1,14 +1,10 @@
 # Organization
 
-Markdown text of the Replicate Us blog of mediastudies.press, to be assembled and rewritten into an open-access Manifold guide to scholar-led publishing
+Files, workflows, policies, and reference material related to [mediastudies.press](https://mediastudies.press), a nonprofit, scholar-led, multimedia, open-access publisher.
 
 ## Rationale
 
-A suite of open-source digital publishing tools, together with the open-access movement, have made possible a new type of scholarly publisher: run by academics, digital-first, multi-modal, and nonprofit. Replicate Us is a project to document the process of creating one such publisher, [mediastudies.press](http://mediastudies.press)—with the aim to make creating a similar, field-specific press easier.
-
-This Github project is intended to provide a more accessible (and forkable) version of the blog contents to the community, as well as enable a trackable way for community members to submit issues in the form of corrections, suggestions, and requests. 
-
-The project is likely to evolve into a [Manifold](http://manifoldapp.org)-based guide, in which case a more robust model of community contributions will be adopted. 
+Together with the [Replicate Us](https://github.com/mediastudiespress/replicateus) blog repository, the purpose of this repository is to provide models and resources for other scholarly publishers, in the spirit of openness and transparency. Additionally, community members may decide to submit issues about policies and other aspects of the mediastudies.press operations documented here.
 
 ## Team
 
