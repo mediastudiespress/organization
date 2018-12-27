@@ -6,4 +6,4 @@
 
 * The main accent and link color is 
 
-'#610f0b'
+`#610f0b`
