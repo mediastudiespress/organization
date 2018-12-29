@@ -20,6 +20,7 @@
 ## Modules
 
 * Divi modules should generally be centered, set to 50% width desktop, 75% tablet, 100% smartphone
+* If spacing between modules is required, use a top margin of 40px
 
 ## Headers
 
