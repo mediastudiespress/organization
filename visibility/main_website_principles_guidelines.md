@@ -11,11 +11,14 @@
 ## Typography
 
 * The header and body font is Alegreya Sans
+* The weight is typically light, with text size 14px and line height 1.7em
+* Web links should be in bold
 
 ## Larger text
 
 * Should be center-aligned, black, light in weight, 38px for desktop, 30px for tablet, and 25px for smartphone
 * Heading line height should be 1.2em
+* Sub headers should b 30px desktop, 25px table, 21px smartphone
 
 ## Modules
 
