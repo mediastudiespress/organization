@@ -15,7 +15,7 @@
 ## Larger text
 
 * Should be center-aligned, black, light in weight, 38px for desktop, 30px for tablet, and 25px for smartphone
-* Heading line height should be 1.23m
+* Heading line height should be 1.2em
 
 ## Modules
 
