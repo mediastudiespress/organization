@@ -18,13 +18,13 @@ If you leave a comment on the blog you may opt-in to saving your name, email add
 
 ### Embedded content from other websites
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+Articles on this site may include embedded content (e.g., videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
 ### Analytics
 
-On this website, we use the free and open source **[Matomo](https://manifoldapp.org/)** web analytics tool—a self-hosted, privacy-respecting alternative to Google Analytic. All analytics data is anonymized with user privacy the main priority. 
+On this website, we use the free and open source **[Matomo](https://manifoldapp.org/)** web analytics tool—a self-hosted, privacy-respecting alternative to Google Analytics. All analytics data is anonymized with user privacy the main priority. 
 
 ### Who we share your data with
 
