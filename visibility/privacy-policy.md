@@ -6,7 +6,7 @@ The name of our organization is mediastudies.press, a 501(c)(3) nonprofit incorp
 
 Our website address is: **[https://mediastudies.press](/)**.
 
-The editor is **[Jeff Pooley](https://jeffpooley.com)**.
+The director is **[Jeff Pooley](https://jeffpooley.com)**.
 
 mediastudies.press can be reached at **[press@mediastudies.press](mailto:press@mediastudies.press)** or 414 W. Broad St., Bethlehem PA 18018.
 
