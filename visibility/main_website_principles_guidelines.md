@@ -18,7 +18,7 @@
 
 * Should be center-aligned, black, light in weight, 38px for desktop, 30px for tablet, and 25px for smartphone
 * Heading line height should be 1.2em
-* Sub headers should b 30px desktop, 25px table, 21px smartphone
+* Sub headers should be 30px desktop, 25px table, 21px smartphone
 
 ## Modules
 
@@ -31,7 +31,7 @@
 
 ## Buttons
 
-* Buttons should generally be centered, with text size 30px desktop, 30px table, 20px smartphone. The text should generally be black, light in weight, with optional #610f0b icon left.
+* Buttons should generally be centered, with text size 30px desktop, 30px tablet, 20px smartphone. The text should generally be black, light in weight, with optional #610f0b icon left.
 
 ## Animations
 
