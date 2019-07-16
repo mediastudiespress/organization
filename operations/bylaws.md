@@ -44,7 +44,7 @@ Each member of the Board of Directors shall attend at least one (1) annual meeti
 
 **Section 3. Annual Meeting**
 
-An annual meeting of the Board of Directors shall be held at a time and day in the in each calendar year designated by the Board of Directors. Notice of the meeting shall be sent to all members of the Board of Directors no fewer than ten (10) days, prior to the meeting date.
+An annual meeting of the Board of Directors shall be held at a time and day in each calendar year designated by the Board of Directors. Notice of the meeting shall be sent to all members of the Board of Directors no fewer than ten (10) days, prior to the meeting date.
 
 **Section 4. Special Meetings**
 
@@ -56,7 +56,7 @@ Notice of any special meeting of the Board of Directors shall be given at least 
 
 **Section 6. Quorum**
 
-The presence, in person of a majority of current members of the Board of Directors shall be necessary at any meeting to constitute a quorum to transact business, but a lesser number shall have power to adjourn to a specified later date without notice.  The act of a majority of the members of the Board of Directors present at a meeting at which a quorum is present shall be the act of the Board of Directors, unless the act of a greater number is required by law or by these by-laws.
+The presence, in person or remotely,Ç of a majority of current members of the Board of Directors shall be necessary at any meeting to constitute a quorum to transact business, but a lesser number shall have power to adjourn to a specified later date without notice.  The act of a majority of the members of the Board of Directors present at a meeting at which a quorum is present shall be the act of the Board of Directors, unless the act of a greater number is required by law or by these by-laws.
 
 **Section 7. Forfeiture**
 
