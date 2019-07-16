@@ -7,11 +7,11 @@
 1. Review and approval of the Bylaws
 2. Election of Board of Directors members
 3. Election of Academic Advisory Board members
-2. Appointment of Director
-3. Review and approval of Privacy Policy
-4. Review and approval of Open Access Principles
-5. Review of finances
-6. Review of semi-annual plan
+4. Appointment of Director
+5. Review and approval of Privacy Policy
+6. Review and approval of Open Access Principles
+7. Review of finances
+8. Review of semi-annual plan
 	* Formalize PubPub instance
 	* Formalize and assemble Academic Advisory Board
 	* Launch Open Access Readers series
