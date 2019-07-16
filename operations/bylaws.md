@@ -56,7 +56,7 @@ Notice of any special meeting of the Board of Directors shall be given at least 
 
 **Section 6. Quorum**
 
-The presence, in person or remotely,Ç of a majority of current members of the Board of Directors shall be necessary at any meeting to constitute a quorum to transact business, but a lesser number shall have power to adjourn to a specified later date without notice.  The act of a majority of the members of the Board of Directors present at a meeting at which a quorum is present shall be the act of the Board of Directors, unless the act of a greater number is required by law or by these by-laws.
+The presence, in person or remotely, of a majority of current members of the Board of Directors shall be necessary at any meeting to constitute a quorum to transact business, but a lesser number shall have power to adjourn to a specified later date without notice. The act of a majority of the members of the Board of Directors present at a meeting at which a quorum is present shall be the act of the Board of Directors, unless the act of a greater number is required by law or by these by-laws.
 
 **Section 7. Forfeiture**
 
@@ -86,7 +86,7 @@ Any question concerning parliamentary procedure at meetings shall be determined 
 
 Any member of the Board of Directors or members of the Academic Advisory Board may be removed with or without cause, at any time, by vote of two-thirds (2/3) of the members of the Board of Directors if in their judgment the best interest of the Corporation would be served thereby. Each member of the Board of Directors must receive written notice of the proposed removal at least ten (10) days in advance of the proposed action. An officer who has been removed as a member of the Board of Directors shall automatically be removed from office.
 
-Members of the Board of Directors who are removed for failure to meet the minimum requirements in Section 2 of this Article in these by-laws automatically forfeit their positions on the Board pursuant to Section 7 of this Article, and are not entitled to the removal procedure outlined in Section 13 of this Article.
+Members of the Board of Directors who are removed for failure to meet the minimum requirements in Section 2 of this Article in these bylaws automatically forfeit their positions on the Board pursuant to Section 7 of this Article, and are not entitled to the removal procedure outlined in Section 13 of this Article.
 
 ---
 
@@ -107,9 +107,7 @@ The President shall preside at all meetings of the membership. The President sha
 
 **Section 2. Vice President**
 
-The Vice-President shall be vested with all the powers and shall perform all the duties of the President during the absence of the latter. The Vice President's duties are:
-
-1. He/She shall have the duty of chairing their perspective committee and such other duties as may, from time to time, be determined by the Board.
+The Vice-President shall be vested with all the powers and shall perform all the duties of the President during the absence of the latter. 
 
 **Section 3. Treasurer**
 
@@ -135,7 +133,7 @@ The President shall be responsible for nominating persons to fill vacancies whic
 
 **Section 1. Committee Formation**
 
-The Board may create committees as needed, such as fundraising, housing, public relations, data collection, etc. The President appoints all committee chairs.
+The Board may create committees as needed, such as fundraising, public relations, data collection, etc. The President appoints all committee chairs.
 
 ---
 
