@@ -5,7 +5,7 @@
 ## I. Agenda
 
 1. Review and approval of the Bylaws
-2. Election of Board of Directors members
+2. Review of website and PubPub
 3. Election of Academic Advisory Board members
 4. Appointment of Director
 5. Review and approval of Privacy Policy
