@@ -23,7 +23,7 @@ Bethlehem PA 18018
 
 ### Staff
 
-**Director*- **[Jeff Pooley](https://jeffpooley.com)**, professor of media & communication, Muhlenberg College, USA    
+**Director** - **[Jeff Pooley](https://jeffpooley.com)**, professor of media & communication, Muhlenberg College, USA    
 
 ### Board meetings
 
