@@ -14,6 +14,7 @@ Together with the [Replicate Us](https://mediastudies.press/replicate-us) blog r
 
 * [Contributing](/CONTRIBUTING.md) - How to contribute to the Replicate Us project.
 * [Code of Conduct](/CODE_OF_CONDUCT.md) - The code of conduct that we expect contributors to adhere to.
+* [Transparency](/operations/transparency.md) - Key information about the organization.
 
 ## Licenses
 
