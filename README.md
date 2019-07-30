@@ -4,11 +4,11 @@ Files, workflows, policies, and reference material related to [mediastudies.pres
 
 ## Rationale
 
-Together with the [Replicate Us](https://github.com/mediastudiespress/replicateus) blog repository, the purpose of this repository is to provide models and resources for other scholarly publishers, in the spirit of openness and transparency. Additionally, community members may decide to submit issues about policies and other aspects of the mediastudies.press operations documented here.
+Together with the [Replicate Us](https://mediastudies.press/replicate-us) blog repository, the purpose of this repository is to provide models and resources for other scholarly publishers, in the spirit of openness and transparency. Additionally, community members may decide to submit issues about policies and other aspects of the mediastudies.press operations documented here.
 
 ## Team
 
-* [Jeff Pooley](http://jeffpooley.com), editor & publsher, mediastudies.press and associate professor of media & communication, Muhlenberg College (Allentown, PA, USA)
+* [Jeff Pooley](http://jeffpooley.com), director, mediastudies.press and professor of media & communication, Muhlenberg College (Allentown, PA, USA)
 
 ## Key Documents
 
