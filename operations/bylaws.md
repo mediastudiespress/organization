@@ -1,6 +1,6 @@
 # mediastudies.press Bylaws
 
-*Provisional - to be debated and adopted by the Board on July 18, 2019*
+*Formally adopted by the Board on July 18, 2019*
 
 ---
 
