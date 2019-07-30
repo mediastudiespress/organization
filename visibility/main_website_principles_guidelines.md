@@ -1,44 +1,46 @@
-# Main website principles & guidelines
+# Transparency
 
-*The purpose of these guidelines are to provide consistency for the design of the main mediastudies.press [website](http://mediastudies.press)
+*mediastudies.press is committed to transparency on principle. This page includes official documents, financial, and operational details--all of which is mirrored on our **[Github page](https://github.com/mediastudiespress)**.*
 
-## Colors
+### Address
 
-* The main accent and link color is 
+414 W. Broad St.    
+Bethlehem PA 18018    
 
-`#610f0b`
+### Nonprofit status
 
-## Typography
+*mediastudies.press is a nonprofit corporation registered in Pennsylvania, USA, with 501(c)(3) status.*
 
-* The header and body font is Alegreya Sans
-* The weight is typically light, with text size 14px and line height 1.7em
-* Web links should be in bold
+**[Pennsylvania Articles of Incorporation](https://github.com/mediastudiespress/organization/blob/master/operations/pa_articles_of_incorporation_2018.pdf)**    
+**[501(c)**(3)** status letter](https://github.com/mediastudiespress/organization/blob/master/operations/irs_letter_501c3_2018.pdf)**    
+**[Bylaws](https://github.com/mediastudiespress/organization/blob/master/operations/bylaws.md)**    
 
-## Larger text
+### Board of Directors
 
-* Should be center-aligned, black, light in weight, 38px for desktop, 30px for tablet, and 25px for smartphone
-* Heading line height should be 1.2em
-* Sub headers should be 30px desktop, 25px table, 21px smartphone
+**President** - **[Jeff Pooley](https://jeffpooley.com)**, professor of media & communication, Muhlenberg College, USA    
+**Vice-President** - **[Dave Park](https://www.lakeforest.edu/academics/faculty/park/)**, professor of communication, Lake Forest College, USA    
+**Treasurer** - **[John L. Sullivan](https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/)**, professor of media & communication, Muhlenberg College, USA    
 
-## Modules
+### Staff
 
-* Divi modules should generally be centered, set to 50% width desktop, 75% tablet, 100% smartphone
-* If spacing between modules is required, use a top margin of 40px
+**Director*- **[Jeff Pooley](https://jeffpooley.com)**, professor of media & communication, Muhlenberg College, USA    
 
-## Headers
+### Board meetings
 
-* Every page should contain a logo with a link back to home
+**[Agenda & minutes - July 2019](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2019-07-18.md)**    
 
-## Buttons
+### Annual filings
 
-* Buttons should generally be centered, with text size 30px desktop, 30px tablet, 20px smartphone. The text should generally be black, light in weight, with optional #610f0b icon left.
+**[Pennsylvania annual statement - 2019](https://github.com/mediastudiespress/organization/blob/master/operations/annual_filings/pennsylvania_annual_statement_2019.pdf)**    
 
-## Animations
+### Policies
 
-* Fade animations, with tested animation delays.
+**[Open access principles](https://github.com/mediastudiespress/organization/blob/master/operations/policies/open_access_principles.md)**    
+**[Privacy policy](https://github.com/mediastudiespress/organization/blob/master/operations/policies/privacy-policy.md)**    
 
-## Footer
+### Financials
 
-* Every page should contain a footer with the following code, with an invisible Divi divider above set to 23px height.
+**[Overview](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide)**    
+**[Expenses](https://airtable.com/shrGR4MWYh5MdcGAx/tbl2vAYIhAlSVQ2gC?blocks=hide)**    
+**[Income](https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide)**    
 
-`<a style="color:black" href="https://creativecommons.org/licenses/by/4.0/legalcode"><strong>CC BY 4.0</strong></a> | <a style="color:black" href="https://twitter.com/mediadotpress"><i class="fa fa-twitter" aria-hidden="true"></i></a> | <a style="color:black" href="https://github.com/mediastudiespress"><i class="fa fa-github" aria-hidden="true"></i></a> | <a style="color:black" href="https://mediastudies.press/feed"><i class="fa fa-rss" aria-hidden="true"></i></a> | <a style="color:black" href="/donate"><i class="fa fa-cc-stripe"></i></a> | <a style="color:black" href="/newsletter"><i class="fa fa-envelope"></i></a>`
