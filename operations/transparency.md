@@ -5,7 +5,8 @@
 ### Address
 
 414 W. Broad St.    
-Bethlehem, PA 18018    
+Bethlehem, PA 18018
+USA    
 
 ### Nonprofit status
 
