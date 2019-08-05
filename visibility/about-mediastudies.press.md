@@ -1,6 +1,9 @@
 # about-mediastudies.press
 
+*not as up to date as website*
+
 <br>
+
 
 **[mediastudies.press](https://mediastudies.press)** is a new, open access publisher for the media and communication studies fields. Launched in 2019, the press is *nonprofit* and *scholar-led*. We publish living works, with iterative updates stitched into our process. And we encourage *multi-modal* submissions that reflect the mediated environments our authors study. 
 
