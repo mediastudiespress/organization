@@ -20,7 +20,7 @@ The purpose of this repository is to provide models and resources for other scho
 
 ### Content
 
-* Non-code content license: [CC BY-NC 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Non-code content license: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 ### Code and Software
 
