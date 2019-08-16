@@ -4,7 +4,7 @@ Files, workflows, policies, and reference material related to [mediastudies.pres
 
 ## Rationale
 
-Together with the [Replicate Us](https://mediastudies.press/replicate-us) blog repository, the purpose of this repository is to provide models and resources for other scholarly publishers, in the spirit of openness and transparency. Additionally, community members may decide to submit issues about policies and other aspects of the mediastudies.press operations documented here.
+The purpose of this repository is to provide models and resources for other scholarly publishers, in the spirit of openness and transparency. Additionally, community members may decide to submit issues about policies and other aspects of the mediastudies.press operations documented here.
 
 ## Team
 
@@ -20,7 +20,7 @@ Together with the [Replicate Us](https://mediastudies.press/replicate-us) blog r
 
 ### Content
 
-* Non-code content license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Non-code content license: [CC BY-NC 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ### Code and Software
 
