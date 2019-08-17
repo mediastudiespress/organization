@@ -2,7 +2,7 @@
 
 **[mediastudies.press](https://github.com/mediastudiespress/organization.git)** is committed to open access in scholarly publishing. This means, first, that *all* of our published works are available for free on the open web. But our commitment goes deeper than public access alone. We believe that ownership and governance matter too—that sustainable OA publishing should be *nonprofit* and *scholar-led*. And we are committed to the principle that *authorship* should be free too. The “article processing charges” (APCs) that many OA publishers charge risk shifting the barriers of access from reader to author, especially in the media studies fields. Our serials and singles are free to authors and readers alike. 
 
-The following tenets are adapted from Jean-Sébastien Caux‘s **[Genuine Open Access Principles](https://jscaux.org/blog/post/2018/05/05/genuine-open-access/)**. Caux’s principles are, in turn, adapted from the Fair Open Access Alliance’s **[Fair Open Access Principles](https://www.fairopenaccess.org/)**.
+The following tenets are adapted from Jean-Sébastien Caux‘s **[Genuine Open Access Principles](https://jscaux.org/blog/post/2018/05/05/genuine-open-access/)**. (Caux’s principles are, in turn, adapted from the Fair Open Access Alliance’s **[Fair Open Access Principles](https://www.fairopenaccess.org/)**.)
 
 <br>
 
@@ -15,5 +15,3 @@ The following tenets are adapted from Jean-Sébastien Caux‘s **[Genuine Open A
 7. **Non-profit** - mediastudies.press’s operations are entirely non-profit
 8. **Open finances** - mediastudies.press’s finances are **[openly published and available for public scrutiny](https://mediastudies.press/transparency)**
 9. **Academic editing** - The editorial processes of mediastudies.press are run by the community, and all editorial decisions are taken by active professional academics, using exclusively scholarship-based criteria
-
-[^1]: 
