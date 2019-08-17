@@ -54,4 +54,3 @@ See the press's **[transparency page](https://mediastudies.press/transparency)**
 
 not included: * replicate us
 	* as an open initiative, we have [charted our own development](/replicate-us) with the hope that our model will spread and improve
-
