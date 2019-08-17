@@ -24,11 +24,11 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ### Analytics
 
-On this website, we use the free and open source **[Matomo](https://manifoldapp.org/)** web analytics tool—a self-hosted, privacy-respecting alternative to Google Analytics. All analytics data is anonymized with user privacy the main priority. 
+On this website, we do not collect *any* data on visitors. Our books (**["singles"](https://msp.pubpub.org)** and articles (in "serials" like **[*History of Media Studies*](https://hms.pubpub.org)** are hosted on **[PubPub](https://www.pubpub.org/about)**, the open source and nonprofit MIT publishing platform. PubPub's **[privacy policy](https://www.pubpub.org/privacy/policy)** can be read **[here](https://www.pubpub.org/privacy/policy)**. The platform's anonymizes third-party analytics can be **[disabled here](https://www.pubpub.org/privacy/settings)**, and you may request an **[export of your PubPub data](https://www.pubpub.org/privacy/settings)** too.
 
 ### Who we share your data with
 
-We do not share your data with any third parties.
+We do not share your data with any third parties. See "Analytics" above about the **[PubPub](https://www.pubpub.org/about)** platform that hosts our published work for details about its anonymizes third-party analytics, which can be **[disabled](https://www.pubpub.org/privacy/settings)**.
 
 ### How long we retain your data
 
