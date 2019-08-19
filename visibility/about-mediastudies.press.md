@@ -50,7 +50,3 @@ mediastudies.press is a registered 501(c)(3) nonprofit corporation in Pennsylvan
 See the press's **[transparency page](https://mediastudies.press/transparency)** for more details.
 
 **[privacy policy](https://mediastudies.press/about/privacy-policy)** | **[open access policy](https://mediastudies.press/about/oa-policy)** | **[donate](https://mediastudies.press/donate)** | **[newsletter](https://mediastudies.press/newsletter)** | **[replicate us](https://mediastudies.press/replicate-us)**
-
-
-not included: * replicate us
-	* as an open initiative, we have [charted our own development](/replicate-us) with the hope that our model will spread and improve
