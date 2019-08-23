@@ -24,7 +24,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ### Analytics
 
-On this website, we do not collect *any* data on visitors. Our books (**["singles"](https://msp.pubpub.org)** and articles (in "serials" like **[*History of Media Studies*](https://hms.pubpub.org)** are hosted on **[PubPub](https://www.pubpub.org/about)**, the open source and nonprofit MIT publishing platform. PubPub's **[privacy policy](https://www.pubpub.org/privacy/policy)** can be read **[here](https://www.pubpub.org/privacy/policy)**. The platform's anonymizes third-party analytics can be **[disabled here](https://www.pubpub.org/privacy/settings)**, and you may request an **[export of your PubPub data](https://www.pubpub.org/privacy/settings)** too.
+On this website, we do not collect *any* data on visitors. Our books (**["singles"](https://msp.pubpub.org)**) and articles (in "serials" like **[*History of Media Studies*](https://hms.pubpub.org)**) are hosted on **[PubPub](https://www.pubpub.org/about)**, the open source and nonprofit MIT publishing platform. PubPub's **[privacy policy](https://www.pubpub.org/privacy/policy)** can be read **[here](https://www.pubpub.org/privacy/policy)**. The platform's anonymized third-party analytics can be **[disabled here](https://www.pubpub.org/privacy/settings)**, and you may request an **[export of your PubPub data](https://www.pubpub.org/privacy/settings)** too.
 
 ### Who we share your data with
 
