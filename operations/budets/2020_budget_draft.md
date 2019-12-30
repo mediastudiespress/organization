@@ -1,6 +1,6 @@
 # mediastudies.press 2020 Budget
 
-*Draft 2019-12-30, prepared by Jeff Pooley)*
+*Draft 2019-12-30, prepared by Jeff Pooley*
 
 See the estimates in an [Airtable base](https://airtable.com/shrU3Dl6YOztL8Sqd/tblk3Zkk2nxAb1kkM?blocks=hide).
 
