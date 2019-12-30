@@ -45,7 +45,7 @@ July 18, 2019 3:00-4:00pm EDT
 ### 3) Election of Officers
 
 * Jeff Pooley self-nominated to be the President; it was seconded by Dave Park. Jeff Pooley was elected President unanimously.
-* Dave Park was noinated as Vice President. It was seconded by Jeff Pooley. Dave Park was elected as the Vice President unanimously.
+* Dave Park was nominated as Vice President. It was seconded by Jeff Pooley. Dave Park was elected as the Vice President unanimously.
 * John Sullivan was nominated to be the Treasurer. It was seconded. John Sullivan was elected to be the Treasurer unanimously.
 
 ### 4) Privacy Policy
