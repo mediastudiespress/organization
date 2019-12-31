@@ -5,7 +5,7 @@
 2020 is the mediastudies.press public launch year. The main goals for the year are:
 
 * publish two books (*Our Master's Voice* in the Public Domain series and *Social Media & the Self* in the Open Access Reader series)
-* prepare *History of Media Studies* for a January 2020 launch
+* prepare *History of Media Studies* for a January 2021 launch
 * build and prepare the launch of a library partnership program
 * establish and document workflows, including distribution and indexing
 * refine the editorial mission
