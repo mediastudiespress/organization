@@ -37,4 +37,4 @@ The current director, Jeff Pooley, has committed to **donating** up to:
 
 The expected account balance on **January 1, 2021,** is:
 
-* $1,179.97
+* $1,348.70
