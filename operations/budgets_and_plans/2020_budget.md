@@ -1,7 +1,5 @@
 # mediastudies.press 2020 Budget
 
-*Draft 2019-12-30, prepared by Jeff Pooley*
-
 See the estimates in an [Airtable base](https://airtable.com/shrU3Dl6YOztL8Sqd/tblk3Zkk2nxAb1kkM?blocks=hide).
 
 In financial terms, 2020 is a transition year for mediastudies.press. The current director, Jeff Pooley, expects to finance the total costs, in advance of a planned library partnership program for 2021 and beyond (see 2020 Plan). The estimated expenses are listed here in order of annual cost:
