@@ -46,5 +46,5 @@ Tim Elfenbein, wayward scholar of infrastructure & labor in publishing, Madison,
 [Overview](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide)    
 [Expenses](https://airtable.com/shrGR4MWYh5MdcGAx/tbl2vAYIhAlSVQ2gC?blocks=hide)    
 [Income](https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide)    
-[2020 Budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget_draft.md)    
+[2020 Budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget.md)    
 
