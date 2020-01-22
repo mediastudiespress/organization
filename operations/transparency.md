@@ -18,14 +18,14 @@ USA
 
 ### Board of Directors
 
-**President*- [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
-**Vice-President*- [Dave Park](https://www.lakeforest.edu/academics/faculty/park/), professor of communication, Lake Forest College, USA    
-**Treasurer*- [John L. Sullivan](https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/), professor of media & communication, Muhlenberg College, USA   
+**President** - [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
+**Vice-President** - [Dave Park](https://www.lakeforest.edu/academics/faculty/park/), professor of communication, Lake Forest College, USA    
+**Treasurer** - [John L. Sullivan](https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/), professor of media & communication, Muhlenberg College, USA   
 Tim Elfenbein, wayward scholar of infrastructure & labor in publishing, Madison, WI    
 
 ### Staff
 
-**Director*- [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
+**Director** - [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
 
 ### Board meetings
 
