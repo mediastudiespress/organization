@@ -60,7 +60,7 @@
 	* Sarah Wipperman
 * The Advisory Board members were elected unanimously
 
-## 5. Review of [current finances](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide) and [2020 Budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget_draft.md)
+## 5. Review of [current finances](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide) and [2020 Budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget.md)
 
 * JP discussed the current state of finances
 * JP committed to donating $5,000 in 2020.
