@@ -1,6 +1,6 @@
 # mediastudies.press 2020 Plan
 
-*draft 2019-12-30, prepared by Jeff Pooley*
+*updated 2020-01-22, after the [2020-01 Board meeting](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2020-01-10.md)*
 
 2020 is the mediastudies.press public launch year. The main goals for the year are:
 
@@ -8,8 +8,14 @@
 * prepare *History of Media Studies* for a January 2021 launch
 * build and prepare the launch of a library partnership program
 * establish and document workflows, including distribution and indexing
-* refine the editorial mission
+* explore print-on-demand and commission a cover design template (series-specific?)
+* explore and develop the idea for a new-monograph series to be edited by recruited scholar(s)
 * migrate the WordPress site to the PubPub Organization plan
 * build a preservation plan
 * explore ScholarLed, OASPA, and other memberships
 
+
+
+* print on demand
+* cover
+* series
