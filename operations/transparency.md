@@ -20,7 +20,8 @@ USA
 
 **President*- [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
 **Vice-President*- [Dave Park](https://www.lakeforest.edu/academics/faculty/park/), professor of communication, Lake Forest College, USA    
-**Treasurer*- [John L. Sullivan](https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/), professor of media & communication, Muhlenberg College, USA    
+**Treasurer*- [John L. Sullivan](https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/), professor of media & communication, Muhlenberg College, USA   
+Tim Elfenbein, wayward scholar of infrastructure & labor in publishing, Madison, WI    
 
 ### Staff
 
@@ -29,6 +30,7 @@ USA
 ### Board meetings
 
 [Agenda & minutes - July 2019](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2019-07-18.md)    
+[Agenda & minutes - January 2020](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2020-01-10.md)    
 
 ### Annual filings
 
@@ -44,4 +46,5 @@ USA
 [Overview](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide)    
 [Expenses](https://airtable.com/shrGR4MWYh5MdcGAx/tbl2vAYIhAlSVQ2gC?blocks=hide)    
 [Income](https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide)    
+[2020 Budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget_draft.md)    
 
