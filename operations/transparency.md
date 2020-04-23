@@ -1,50 +1,65 @@
-# Transparency
+<h1>Transparency</h1>
 
-*mediastudies.press is committed to transparency on principle. This page includes official documents, financial, and operational details--all of which is mirrored on our **[Github page](https://github.com/mediastudiespress)**.*
+<p><em>mediastudies.press is committed to transparency on principle. This page includes official documents, financial, and operational details&#8211;all of which is mirrored on our <strong><a href=“https://github.com/mediastudiespress”>Github page</a></strong>.</em></p>
 
-### Address
+<br>
 
-414 W. Broad St.    
+<h3>Address</h3>
+
+<p>414 W. Broad St.<br/>
 Bethlehem, PA 18018
-USA    
+USA </p>
 
-### Nonprofit status
+<br>
 
-*mediastudies.press is a nonprofit corporation registered in Pennsylvania, USA, with 501(c)(3) status.*
+<h3>Nonprofit status</h3>
 
-[Pennsylvania Articles of Incorporation](https://github.com/mediastudiespress/organization/blob/master/operations/pa_articles_of_incorporation_2018.pdf)    
-[501(c)(3) status letter](https://github.com/mediastudiespress/organization/blob/master/operations/irs_letter_501c3_2018.pdf)    
-[Bylaws](https://github.com/mediastudiespress/organization/blob/master/operations/bylaws.md)    
+<p><em>mediastudies.press is a nonprofit corporation registered in Pennsylvania, USA, with 501(c)(3) status.</em></p>
 
-### Board of Directors
+<p><a href=“https://github.com/mediastudiespress/organization/blob/master/operations/pa_articles_of_incorporation_2018.pdf”>Pennsylvania Articles of Incorporation</a><br/>
+<a href=“https://github.com/mediastudiespress/organization/blob/master/operations/irs_letter_501c3_2018.pdf”>501(c)(3) status letter</a><br/>
+<a href=“https://github.com/mediastudiespress/organization/blob/master/operations/bylaws.md”>Bylaws</a> </p>
 
-**President** - [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
-**Vice-President** - [Dave Park](https://www.lakeforest.edu/academics/faculty/park/), professor of communication, Lake Forest College, USA    
-**Treasurer** - [John L. Sullivan](https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/), professor of media & communication, Muhlenberg College, USA   
-Tim Elfenbein, wayward scholar of infrastructure & labor in publishing, Madison, WI    
+<br>
 
-### Staff
+<h3>Board of Directors</h3>
 
-**Director** - [Jeff Pooley](https://jeffpooley.com), professor of media & communication, Muhlenberg College, USA    
+<p><strong>President</strong> - <a href=“https://jeffpooley.com”>Jeff Pooley</a>, professor of media &amp; communication, Muhlenberg College, USA<br/>
+<strong>Vice-President</strong> - <a href=“https://www.lakeforest.edu/academics/faculty/park/“>Dave Park</a>, professor of communication, Lake Forest College, USA<br/>
+<strong>Treasurer</strong> - <a href=“https://www.muhlenberg.edu/academics/mediacom/facultystaff/johnsullivan/“>John L. Sullivan</a>, professor of media &amp; communication, Muhlenberg College, USA<br/>
+Tim Elfenbein, wayward scholar of infrastructure &amp; labor in publishing, Madison, WI </p>
 
-### Board meetings
+<br>
 
-[Agenda & minutes - July 2019](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2019-07-18.md)    
-[Agenda & minutes - January 2020](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2020-01-10.md)    
+<h3>Staff</h3>
 
-### Annual filings
+<p><strong>Director</strong> - <a href=“https://jeffpooley.com”>Jeff Pooley</a>, professor of media &amp; communication, Muhlenberg College, USA </p>
 
-[Pennsylvania annual statement - 2019](https://github.com/mediastudiespress/organization/blob/master/operations/annual_filings/pennsylvania_annual_statement_2019.pdf)    
+<br>
 
-### Policies
+<h3>Board meetings</h3>
 
-[Open access principles](https://github.com/mediastudiespress/organization/blob/master/operations/policies/open_access_principles.md)    
-[Privacy policy](https://github.com/mediastudiespress/organization/blob/master/operations/policies/privacy-policy.md)    
+<p><a href=“https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2019-07-18.md”>Agenda &amp; minutes - July 2019</a><br/>
+<a href=“https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2020-01-10.md”>Agenda &amp; minutes - January 2020</a> </p>
 
-### Financials
+<br>
 
-[Overview](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide)    
-[Expenses](https://airtable.com/shrGR4MWYh5MdcGAx/tbl2vAYIhAlSVQ2gC?blocks=hide)    
-[Income](https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide)    
-[2020 Budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget.md)    
+<h3>Annual filings</h3>
 
+<p><a href=“https://github.com/mediastudiespress/organization/blob/master/operations/annual_filings/pennsylvania_annual_statement_2019.pdf”>Pennsylvania annual statement - 2019</a> </p>
+
+<br>
+
+<h3>Policies</h3>
+
+<p><a href=“https://github.com/mediastudiespress/organization/blob/master/operations/policies/open_access_principles.md”>Open access principles</a><br/>
+<a href=“https://github.com/mediastudiespress/organization/blob/master/operations/policies/privacy-policy.md”>Privacy policy</a> </p>
+
+<br>
+
+<h3>Financials</h3>
+
+<p><a href=“https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq?blocks=hide”>Overview</a><br/>
+<a href=“https://airtable.com/shrGR4MWYh5MdcGAx/tbl2vAYIhAlSVQ2gC?blocks=hide”>Expenses</a><br/>
+<a href=“https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide”>Income</a><br/>
+<a href=“https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget.md”>2020 Budget</a> </p>
