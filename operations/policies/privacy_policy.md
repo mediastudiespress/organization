@@ -1,5 +1,7 @@
 ## Privacy Policy
 
+[**Note:** Deprecated with move to the PubPub platform, which has its own robust [privacy policy](https://www.pubpub.org/legal/privacy).]
+
 ### Who we are
 
 The name of our organization is mediastudies.press, a 501(c)(3) nonprofit incorporated in Pennsylvania, United States. 
