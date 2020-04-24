@@ -52,8 +52,7 @@ Tim Elfenbein, wayward scholar of infrastructure &amp; labor in publishing, Madi
 
 <h3>Policies</h3>
 
-<p><a href=“https://github.com/mediastudiespress/organization/blob/master/operations/policies/open_access_principles.md”>Open access principles</a><br/>
-<a href=“https://github.com/mediastudiespress/organization/blob/master/operations/policies/privacy-policy.md”>Privacy policy</a> </p>
+<p><a href=“/oa-principles”>Open access principles</a><br/>
 
 <br>
 
