@@ -15,5 +15,5 @@ The following tenets are adapted from Jean-Sébastien Caux‘s **[Genuine Open A
 5. **Open citations** - mediastudies.press is committed to making its citation metadata openly accessible by actively participating in the **[Initiative for Open Citations](https://i4oc.org/)**
 6. **Fee free** - Submission, peer evaluation and publication are not conditional in any way on the payment of a fee from authors or their employing institution, or on membership of an institution or society
 7. **Non-profit** - mediastudies.press’s operations are entirely non-profit
-8. **Open finances** - mediastudies.press’s finances are **[openly published and available for public scrutiny](https://mediastudies.press/transparency)**
+8. **Open finances** - mediastudies.press’s finances are **[openly published and available for public scrutiny](/transparency)**
 9. **Academic editing** - The editorial processes of mediastudies.press are run by the community, and all editorial decisions are taken by active professional academics, using exclusively scholarship-based criteria
