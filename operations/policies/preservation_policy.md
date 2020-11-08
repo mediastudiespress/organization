@@ -1,0 +1,6 @@
+# Preservation Policy
+
+At [mediastudies.press](https://www.mediastudies.press), we publish works in a variety of media formats, and also encourage versioning. As a result, version-of-record, text-based preservation options like [Portico](https://www.portico.org) and [CLOCKSS](https://clockss.org) are imperfectly suited to our needs. Our preservation strategy has two components:
+
+1. Multi-platform distribution: In addition to our [PubPub](https://www.pubpub.org)-based main site, we are distributing our PDFs through [Project MUSE](https://muse.jhu.edu), [OAPEN](https://www.oapen.org), the [Internet Archive](https://archive.org),  and [MediArXiv](https://mediarxiv.org). The driving principle is redundancy and resilience. Our agreement with Project MUSE includes [Portico](https://www.portico.org) hosting for our PDF titles.
+2. We recognize that long-term preservation requires robust, multi-modal archiving infrastructure. We are closely following the ongoing discussions hosted by [COPIM](https://copim.pubpub.org/pub/archiving-and-preservation-workshop-sept-2020/release/1), [Portico, CLOCKSS, and NYU Press](https://www.dpconline.org/blog/enhancing-services-to-preserve-new-forms-of-scholarship), and [Duke University Libraries](https://expansive.pubpub.org/pub/snb2tqyr/release/1).
