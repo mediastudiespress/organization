@@ -10,6 +10,6 @@ Authors that pass this first round of review are consulted about their peer revi
 
 * **community review**, in which a draft version is published, with public, signed comments encouraged and solicited
 
-The review type (*double-blind*, *signed*, or *community) is indicated in the published book's front matter, and--in the case of the signed option--reviewers are typically named.
+The review type (*double-blind*, *signed*, or *community*) is indicated in the published book's front matter, and--in the case of the signed option--reviewers are typically named.
 
 For all review types, authors are responsible for considering suggestions and comments in the revision process. Revised manuscripts may be returned to reviewers or may be assessed solely by the director.
