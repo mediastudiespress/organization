@@ -1,4 +1,4 @@
-<center><h1>mediastudies.press news & updates</h1></center>
+<center><h1>mediastudies.press news & updates 1/21</h1></center>
 
 ***
 
@@ -29,6 +29,8 @@ We have also joined [Radical Open Access](http://radicaloa.disruptivemedia.org.u
 ## 5. Newsletter
 
 We are launching a [quarterly newsletter](https://www.mediastudies.press/newsletter). In fact, this Annual Report, in a nhtml version, will be the first, January 2021 edition.
+
+<P style="page-break-before: always"> 
 
 ## 6. Donation Portal
 
