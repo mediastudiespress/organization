@@ -1,12 +1,14 @@
+/images/msp-logo-main.png
+
 # Annual Report 2020
 
-2020 marked the real launch of [mediastudies.press](https://mediastudies.press), with the publication of the press’s first two books. This report lists significant developments over the year, followed by a brief financial breakdown.
+2020 marked the real launch of [mediastudies.press](https://mediastudies.press), with the publication of the press’s first two books. This report lists significant developments over the year, followed by a brief financial overview.
 
 ## 1. First Two Books Published
 
 mediastudies.press published its first two books, both in the [Public Domain series](https://www.mediastudies.press/public-domain-series): *[Our Master’s Voice: Advertising](https://www.mediastudies.press/masters-voice)* and *[Liberty and the News](https://www.mediastudies.press/liberty-and-the-news)*.
 
-The books were released in five formats: **online**, **PDF**, **ePub**, **Mobi**, and **paperback**. In keeping with our mission to spread the books as far and wide as possible, the singles are hosted on six platforms: [mediastudies.press](https://www.mediastudies.press) (PubPub html) itself, as well as [Project Muse](https://muse.jhu.edu/search?action=browse&limit=publisher_id:351) (PDF), [OAPEN](https://library.oapen.org/handle/20.500.12657/43308) (PDF), the [Internet Archive](https://archive.org/details/@mediastudiespress) (PDF), [Google Books](https://www.google.com/search?hl=en&q=inpublisher:%22Mediastudies.Press%22&tbm=bks&sa=X&ved=2ahUKEwi7s4mQh6HuAhVqGFkFHXSOCu4QmxMoADAIegQIHBAC) (ePub), and [Apple Books](https://books.apple.com/us/book/our-masters-voice/id1544852855) (ePub).
+The books were released in five formats: **online**, **PDF**, **ePub**, **Mobi**, and **paperback**. In keeping with our mission to spread the books as far and wide as possible, the singles are hosted on six platforms: [mediastudies.press](https://www.mediastudies.press) (PubPub html) itself, as well as [Project MUSE](https://muse.jhu.edu/search?action=browse&limit=publisher_id:351) (PDF), [OAPEN](https://library.oapen.org/handle/20.500.12657/43308) (PDF), the [Internet Archive](https://archive.org/details/@mediastudiespress) (PDF), [Google Books](https://www.google.com/search?hl=en&q=inpublisher:%22Mediastudies.Press%22&tbm=bks&sa=X&ved=2ahUKEwi7s4mQh6HuAhVqGFkFHXSOCu4QmxMoADAIegQIHBAC) (ePub), and [Apple Books](https://books.apple.com/us/book/our-masters-voice/id1544852855) (ePub).
 
 As our friends at [punctum](https://punctumbooks.pubpub.org/pub/visualization-book-usage-statistics-metabase/release/2) and [Open Book Publishers](https://blogs.openbookpublishers.com/counter-metrics-oabooks/) have documented, keeping track of readership and download tallies is a challenge at best. One goal for 2021 is to develop a humane means to report usage to authors, without over-feeding the metrics beast.
 
@@ -26,7 +28,7 @@ We have also joined [Radical Open Access](http://radicaloa.disruptivemedia.org.u
 
 ## 5. Newsletter
 
-We are launching a [quarterly newsletter](https://www.mediastudies.press/newsletter). In fact, this Annual Report, in a nhtml version, will be the first, January 2021 edition.
+We are launching a [quarterly newsletter](https://www.mediastudies.press/newsletter). In fact, this Annual Report, in an html version, will be the first, January 2021 edition.
 
 <P style="page-break-before: always"> 
 
