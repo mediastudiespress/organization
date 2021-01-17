@@ -1,3 +1,7 @@
+<center><h1>mediastudies.press news & updates</h1></center>
+
+***
+
 2020 marked the real launch of [mediastudies.press](https://mediastudies.press), with the publication of the press’s first two books. This first edition of the newsletter is also the press’s [2020 Annual Report](https://github.com/mediastudiespress/organization/raw/master/operations/annual_reports/annual-report-msp-2020.pdf), listing significant developments over the year, followed by a brief financial breakdown.
 
 ## 1. First Two Books Published
@@ -8,11 +12,11 @@ The books were released in five formats: **online**, **PDF**, **ePub**, **Mobi**
 
 As our friends at [punctum](https://punctumbooks.pubpub.org/pub/visualization-book-usage-statistics-metabase/release/2) and [Open Book Publishers](https://blogs.openbookpublishers.com/counter-metrics-oabooks/) have documented, keeping track of readership and download tallies is a challenge at best. One goal for 2021 is to develop a humane means to report usage to authors, without over-feeding the metrics beast.
 
-On the paperback side, we are working with the UK-based [Printondemand-worldwide](https://www.printondemand-worldwide.com). We can upload and order small batches, for our own fulfillment—or use PODWW’s wholesaling service. We are still getting a feel for the distribution and point-of-sale side, but the print-on-demand service itself has proven excellent. (Thanks to punctum’s [Dan Rudmann](https://danrudmann.com) for recommending the operation.) For direct sales from our website, we are using an indie Stripe-enabled storefront service, [Checkout Page](https://checkoutpage.co). Here’s an [example](https://checkoutpage.co/checkout/mediastudiespress/our-masters-voice-advertising).
+On the paperback side, we are working with the UK-based [Printondemand-worldwide](https://www.printondemand-worldwide.com). We can upload and order small batches, for our own fulfillment--or use PODWW’s wholesaling service. We are still getting a feel for the distribution and point-of-sale side, but the print-on-demand service itself has proven excellent. (Thanks to punctum’s [Dan Rudmann](https://danrudmann.com) for recommending the operation.) For direct sales from our website, we are using an indie Stripe-enabled storefront service, [Checkout Page](https://checkoutpage.co). Here’s an [example](https://checkoutpage.co/checkout/mediastudiespress/our-masters-voice-advertising).
 
 ## 2. New Affiliation: Project MUSE
 
-We were excited to join Project Muse’s [Open Acess Book Program](https://about.muse.jhu.edu/publishers/oa-books-program/), which now hosts our first [two books](https://muse.jhu.edu/search?action=browse&limit=publisher_id:351) by PDF chapter. One major advantage is that MUSE—whose nonprofit mission resonates with ours—enables OCLC integration and inclusion in many libraries’ catalogs, along with preservation. 
+We were excited to join Project Muse’s [Open Acess Book Program](https://about.muse.jhu.edu/publishers/oa-books-program/), which now hosts our first [two books](https://muse.jhu.edu/search?action=browse&limit=publisher_id:351) by PDF chapter. One major advantage is that MUSE--whose nonprofit mission resonates with ours--enables OCLC integration and inclusion in many libraries’ catalogs, along with preservation. 
 
 ## 3. New Affiliation: OAPEN and DOAB
 
@@ -28,7 +32,7 @@ We are launching a [quarterly newsletter](https://www.mediastudies.press/newslet
 
 ## 6. Donation Portal
 
-To simplify the donation process—since mediastudies.press currently relies on charitable donations while its library paternship model is planned—we created a [Donorbox account](https://donorbox.org/donate-to-mediastudies-press). 
+To simplify the donation process--since mediastudies.press currently relies on charitable donations while its library paternship model is planned--we created a [Donorbox account](https://donorbox.org/donate-to-mediastudies-press). 
 
 ## 7. Designer and Copy Editor
 
@@ -40,16 +44,20 @@ We launched two new series, with the first titles for both to appear in 2021: th
 
 ## 9. New Board Member
 
-Earlier in the year, Tim Elfenbein—a wayward scholar of infrastructure and labor in publishing, based in Madison, WI—joined the [mediastudies.press Board](https://www.mediastudies.press/transparency). For this and other organizational details, see the agenda and minutes from our [January 2020](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2020-01-10.md) meeting, listed on our [Transparency page](https://www.mediastudies.press/transparency). Tim is also advising on the publishing workflow and other infrastructure matters. 
+Earlier in the year, Tim Elfenbein--a wayward scholar of infrastructure and labor in publishing, based in Madison, WI--joined the [mediastudies.press Board](https://www.mediastudies.press/transparency). For this and other organizational details, see the agenda and minutes from our [January 2020](https://github.com/mediastudiespress/organization/blob/master/operations/board_meetings/agenda_and_minutes_2020-01-10.md) meeting, listed on our [Transparency page](https://www.mediastudies.press/transparency). Tim is also advising on the publishing workflow and other infrastructure matters. 
 
 ## 10. New Policies
 
-The Board approved our [Open Access Principles](https://www.mediastudies.press/oa-principles) in January. Two new policies—one on [Preservation](https://www.mediastudies.press/preservation) and the other on [Peer Review](https://www.mediastudies.press/peer-review)—will go before the Board in the month ahead. 
+The Board approved our [Open Access Principles](https://www.mediastudies.press/oa-principles) in January. Two new policies--one on [Preservation](https://www.mediastudies.press/preservation) and the other on [Peer Review](https://www.mediastudies.press/peer-review)--will go before the Board in the month ahead. 
 
 ## 11. Finances
 
-In keeping with our commitment to transparency, we publicly list our [expenses](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq), our [income](https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide), and our [monthly financial picture](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq). We began the year with $1,531.36, and ended 2020 with a balance of $258.37. Our expenses—mostly proofing and copy editing—totaled $4,923.06, while our income—mostly donations from the director—totaled $3,280.69.
+In keeping with our commitment to transparency, we publicly list our [expenses](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq), our [income](https://airtable.com/shrCZtP7bLqsAmyFm/tblegD9A20Z71IADy?blocks=hide), and our [monthly financial picture](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq). We began the year with $1,531.36, and ended 2020 with a balance of $258.37. Our expenses--mostly proofing and copy editing--totaled $4,923.06, while our income--mostly donations from the director--totaled $3,280.69.
 
-These figures are in line with expectations. Our [2020 budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget.md) expected $5,542.04 in spending, and—on that basis—a minimum of $3,651.30 in income. Since our [expenses](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq) were a bit lower than expected, the donation income was also lower.
+These figures are in line with expectations. Our [2020 budget](https://github.com/mediastudiespress/organization/blob/master/operations/budgets_and_plans/2020_budget.md) expected $5,542.04 in spending, and--on that basis--a minimum of $3,651.30 in income. Since our [expenses](https://airtable.com/shruowH9xZToBNv0C/tblE0XjrDlfADUIHq) were a bit lower than expected, the donation income was also lower.
 
 One of our key goals for 2021 is to develop a library partnership program, with a careful study of [punctum](https://punctumbooks.com/supporting-library-membership-program/), [Open Book Publishers](https://www.openbookpublishers.com/section/44/1), [Open Library of Humanities](https://www.openlibhums.org/site/about/the-olh-model/), and the work coming out of [COPIM](https://www.copim.ac.uk). Stay tuned!
+
+*** 
+
+*mediastudies.press news & updates* is a quarterly newsletter for [mediastudies.press](https://mediastudies.press), a scholar-led, nonprofit academic publisher of works in the media, communication, and film studies fields. Please [contact us](mailto:press@mediastudies.press) with comments and suggestions.
