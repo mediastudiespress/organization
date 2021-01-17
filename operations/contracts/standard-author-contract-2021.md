@@ -18,9 +18,9 @@ B.  *Copyright Notice.* Each copy of the Work distributed by Publisher will incl
 
 C.  *Grant of Rights.* Author grants to Publisher:
 
->>> 1. a non-exclusive license to use, publish, edit, reproduce, distribute, publicly perform, publicly display, and prepare derivative works based upon the Work, in whole or in part, for any purpose associated with this Agreement;
-> 2. the right to use Author’s name, likeness, and biographical information in association with Publisher’s activities undertaken in connection with this Agreement, including without limitation in the promotion, advertising, sales, and licensing of the Work; and
-> 3. the right to make the Work available through appropriate open access formats and forums.
+1. a non-exclusive license to use, publish, edit, reproduce, distribute, publicly perform, publicly display, and prepare derivative works based upon the Work, in whole or in part, for any purpose associated with this Agreement;
+2. the right to use Author’s name, likeness, and biographical information in association with Publisher’s activities undertaken in connection with this Agreement, including without limitation in the promotion, advertising, sales, and licensing of the Work; and
+3. the right to make the Work available through appropriate open access formats and forums.
 
 D. *Open Access License.* Except for materials already in the public domain, the Work will be published with a Creative Commons license. The Publisher recommends Creative Commons Attribution Non-Commercial 4.0 International (CC BY-­NC 4.0), but will defer to Author choice in consultation with Publisher, as specified here (if not CC BY-NC 4.0): [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] 
 
@@ -62,23 +62,23 @@ Marketing is a joint responsibility, and Author agrees to be a full partner with
 
 Subject to the terms and conditions of this Agreement, Publisher commits to:
 
->>> 1. prepare the Work for publication, including editing and formatting the Work; however, in the process of editing, Publisher will not make substantive changes in the Work without the approval of Author, which will not be unreasonably withheld or delayed;
-> 2. make the Work available as set forth in Sections 3 and 4;
-> 3. follow the schedule and satisfy Publisher’s responsibilities outlined in Section 5;
-> 4. if the Work is published in print, provide Author with 3 complimentary copies and the option to purchase additional copies at the discounted rate of 75 percent off list price; and
-> 5. use reasonable efforts to collaborate with Author in marketing efforts as described in Section 7.
+1. prepare the Work for publication, including editing and formatting the Work; however, in the process of editing, Publisher will not make substantive changes in the Work without the approval of Author, which will not be unreasonably withheld or delayed;
+2. make the Work available as set forth in Sections 3 and 4;
+3. follow the schedule and satisfy Publisher’s responsibilities outlined in Section 5;
+4. if the Work is published in print, provide Author with 3 complimentary copies and the option to purchase additional copies at the discounted rate of 75 percent off list price; and
+5. use reasonable efforts to collaborate with Author in marketing efforts as described in Section 7.
 
 ### Section 9. Author Commitments
 
 Author represents and warrants that:
 
->>> 1. Author holds all the necessary rights and is authorized to enter into this Agreement, and the Work is not a "work made for hire" (not created within the scope of Author’s employment or pursuant to an agreement) or its publication does not require the permission of any other person or entity;
-> 2. nothing in the Work is defamatory, infringes anyone’s rights---including without limitation intellectual property, privacy, or contractual rights---or otherwise violates the law;
-> 3. the facts, conclusions, and opinions stated in the Work represent Author’s research, conclusions, and opinions, and are substantiated, accurate, valid, and reliable;
-> 4. the Work has not been previously published (unless in the public domain, allowed by license, or otherwise permitted), in whole or in part, and there is no offer or agreement for publication pending except as Author has already informed Publisher;
-> 5. Author will follow the schedule and satisfy Author’s responsibilities outlined in Section 5;
-> 6. the contents of the Work are original to Author, except for third-party materials, for which Author will provide appropriate citations and attributions and necessary permissions; and
-> 7. Author will collaborate with Publisher in marketing efforts intended to raise awareness of the Work, as described in Section 7.
+1. Author holds all the necessary rights and is authorized to enter into this Agreement, and the Work is not a "work made for hire" (not created within the scope of Author’s employment or pursuant to an agreement) or its publication does not require the permission of any other person or entity;
+2. nothing in the Work is defamatory, infringes anyone’s rights---including without limitation intellectual property, privacy, or contractual rights---or otherwise violates the law;
+3. the facts, conclusions, and opinions stated in the Work represent Author’s research, conclusions, and opinions, and are substantiated, accurate, valid, and reliable;
+4. the Work has not been previously published (unless in the public domain, allowed by license, or otherwise permitted), in whole or in part, and there is no offer or agreement for publication pending except as Author has already informed Publisher;
+5. Author will follow the schedule and satisfy Author’s responsibilities outlined in Section 5;
+6. the contents of the Work are original to Author, except for third-party materials, for which Author will provide appropriate citations and attributions and necessary permissions; and
+7. Author will collaborate with Publisher in marketing efforts intended to raise awareness of the Work, as described in Section 7.
 
 ### Section 10. Third Party Claims
 
@@ -90,8 +90,8 @@ In no event shall either party be liable to the other party for any indirect, sp
 
 ### Section 12. Term and Termination
 
->>> 1. *Term.* This Agreement begins on the Effective Date and continues until the earlier of expiration of the copyright, or termination as set forth in this Agreement.
-> 2. *Termination*. Publisher may terminate this Agreement for cause, including if the Author does not meet delivery dates identified in Section 5 and a new schedule is not agreed upon, or if the required permissions are not received. Either party my terminate this Agreement in the case of another event that materially affects Author’s ability to complete the Work or Publisher’s ability to publish the Work, or in the event of a default under the terms of this Agreement that is not cured within 30 days after written notice to the other party specifying such breach. Upon termination of this Agreement, all rights in the Work shall revert to Author.
+1. *Term.* This Agreement begins on the Effective Date and continues until the earlier of expiration of the copyright, or termination as set forth in this Agreement.
+2. *Termination*. Publisher may terminate this Agreement for cause, including if the Author does not meet delivery dates identified in Section 5 and a new schedule is not agreed upon, or if the required permissions are not received. Either party my terminate this Agreement in the case of another event that materially affects Author’s ability to complete the Work or Publisher’s ability to publish the Work, or in the event of a default under the terms of this Agreement that is not cured within 30 days after written notice to the other party specifying such breach. Upon termination of this Agreement, all rights in the Work shall revert to Author.
 
 ### Section 13. Good Faith Business Negotiations
 
@@ -132,3 +132,4 @@ This Agreement contains the entire understanding of the parties with respect to 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    
 *Dated*
 
+	
