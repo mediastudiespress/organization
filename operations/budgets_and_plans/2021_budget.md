@@ -7,9 +7,8 @@
 * **Designer** (estimated, History of Media Studies template): $1,000
 * **Membership** (OAPEN): $212
 * **Project MUSE listings** (estimated, 4 books at $100/book): $400
-* **Publishing platform** (PubPub, estimated): $1050
+* **Publishing platform** (PubPub, estimated): $1,050
 * **DOI registration** (CrossRef): $275
-* **Automation software** (Integromat): $108
 * **Style guide service** (Chicago Manual of Style): $39
 * **Software** (Adobe CC, email, automation): $400
 * **Permissions charges** (various): $150
@@ -20,7 +19,7 @@ Note that the **proofing** is an estimate based on 2020 experience, and the **pu
 
 The **total estimated expenditures**:
 
-* $8,299.00
+* $7,936.79
 
 As of February 1, 2021, mediastudies.press has an **account balance** of:
 
@@ -40,8 +39,8 @@ In addition, we expect additional donation income of:
 
 We expect net paperback sales revenue of:
 
-* 150.00
+* $150.00
 
 The expected account balance on **January 1, 2022,** is:
 
-* $305.21
+* $413.21
