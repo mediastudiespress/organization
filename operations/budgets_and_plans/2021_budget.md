@@ -1,6 +1,6 @@
 # mediastudies.press 2021 Budget
 
-2021 is another transition year for mediastudies.press. The current director, Jeff Pooley, expects to finance the total costs, in advance of a planned library partnership program for 2022 and beyond (see 2021 Plan). The estimated expenses are listed here in order of annual cost:
+2021 is another transition year for mediastudies.press. The current director, Jeff Pooley, expects to finance the total costs, in advance of a planned library partnership program for 2022 and beyond (see 2021 Plan). The estimated expenses are listed here:
 
 * **Proofreading** (estimated, 4 books at estimated $1,125/book): $4,500
 * **PO Box** (CoWork 414): $120
