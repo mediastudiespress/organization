@@ -4,7 +4,7 @@
 
 ### Section 1. Parties
 
-This publishing agreement ("Agreement"), dated <<DATE>> ("Effective Date"), is between  mediastudies.press, organized under the Commonwealth of Pennsylvania with offices at 414 W. Broad St., Bethlehem, PA ("Publisher"), and <<NAME>> and Dominique Trudel ("Authors").
+This publishing agreement ("Agreement"), dated <<DATE>> ("Effective Date"), is between  mediastudies.press, organized under the Commonwealth of Pennsylvania with offices at 414 W. Broad St., Bethlehem, PA ("Publisher"), and <<NAME>> and <<NAME>> ("Authors").
 
 ### Section 2. Purpose of Agreement
 
