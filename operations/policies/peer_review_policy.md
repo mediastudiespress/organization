@@ -4,7 +4,7 @@ All [mediastudies.press](https://mediastudies.press) manuscripts undergo vigorou
 
 Manuscripts are first reviewed by the director, to assess scholarly quality and suitability for the press. 
 
-Authors that pass this first round of review are consulted about their peer review preferences. The default option is a **double-bind review** by at least two subject experts. Authors may select from other, more open options:
+Authors that pass this first round of review are consulted about their peer review preferences. The default option is a **double-blind review** by at least two subject experts. Authors may select from other, more open options:
 
 * **signed review**, in which the (two or more) reviewers sign their comments and may continue to consult with authors through the revision process
 
