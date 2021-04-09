@@ -2,13 +2,15 @@
 
 *Draft 2021-04*
 
-The three major options, which may perhaps be combined, are:
+The four major options, which may perhaps be combined, are:
 
 1. **Library partnership:** The idea is to affiliate in a substantial way with a single library, like the University of Pennsylvania's Annenberg School. An example would be [punctum book's partnership with UCSB's library](https://www.library.ucsb.edu/punctum-books-ucsb-library-partnership).
 
 2. **mediastudies.press-specific library membership program:** Here the idea is to encourage libraries with substantial media and communication programs in their host institutions to pay an annual subsidy, on a tiered basis linked to institution size and (perhaps) other factors like host nation GDP per capita or library budget size. An example would be [Open Library of Humanities' Library Partnership Subsidy model](https://www.openlibhums.org/site/about/the-olh-model/).
 
 3. **A discipline-specific funding exchange:** This is the idea I floated in a [threadbare proposal](https://github.com/mediastudiespress/organization/blob/master/operations/funding_models/born-oa-funding-exchange-model.md): Organizing libraries (and perhaps other funders, like foundations) into a funding entity that supports applicant-publishers in the field (e.g., mediastudies.press, mediacommons, Meson Press). 
+
+4. **Other funding exchanges/consortia:** LYRASIS's [Open Access Community Investment Program](https://www.lyrasis.org/content/Pages/oacip.aspx) and [KOALA](https://www.lyrasis.org/content/Pages/oacip.aspx) are two exciting projects/pilots that we have contacted to express interest.
 
 ## Other Sources
 
