@@ -1,5 +1,7 @@
 # Proposal: Born-OA funding exchange model and pilot
 
+*draft version 2021-04*
+
 The **Born-OA Funding Exchange model** brings (1) librarians and (2) scholarly publishers together in a structured funding relationship. The model’s purpose is to provide a collective and sustainable business model for born-OA publishers, while also reducing the logistical burden on library funders. Unlike existing consortial approaches based on single-publisher membership programs, the funding exchange model is predicated on multiple funders and multiple publishers, organized along disciplinary lines. Its main features are:
 
 - A consortium, governed by subject-specific librarians and other funders, that solicits institutional pledges and disburses funds to successful applicant-publishers
