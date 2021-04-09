@@ -10,7 +10,7 @@ The four major options, which may perhaps be combined, are:
 
 3. **A discipline-specific funding exchange:** This is the idea I floated in a [threadbare proposal](https://github.com/mediastudiespress/organization/blob/master/operations/funding_models/born-oa-funding-exchange-model.md): Organizing libraries (and perhaps other funders, like foundations) into a funding entity that supports applicant-publishers in the field (e.g., mediastudies.press, mediacommons, Meson Press). 
 
-4. **Other funding exchanges/consortia:** LYRASIS's [Open Access Community Investment Program](https://www.lyrasis.org/content/Pages/oacip.aspx) and [KOALA](https://www.lyrasis.org/content/Pages/oacip.aspx) are two exciting projects/pilots that we have contacted to express interest.
+4. **Other collective funding models:** LYRASIS's [Open Access Community Investment Program](https://www.lyrasis.org/content/Pages/oacip.aspx) and [KOALA](https://www.lyrasis.org/content/Pages/oacip.aspx) are two exciting projects/pilots that we have contacted to express interest.
 
 ## Other Sources
 
