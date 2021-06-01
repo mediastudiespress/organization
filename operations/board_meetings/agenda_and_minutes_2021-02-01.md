@@ -1,4 +1,4 @@
-# Agenda - 2021-02-01
+# Agenda & Minutes - 2021-02-01
 
 *mediastudies.press Board Meeting*
 
@@ -25,24 +25,24 @@
 
 ## II. Minutes
 
-2020-02-01 11am to noon ET
+2021-02-01 11am to 12pm ET
 
-*Meeting called to order at 11:01am. Present: Tim Elfenbein, Jeff Pooley, David Park, John Sullivan*
+*Meeting called to order at 12:01pm. Present: Tim Elfenbein, Jeff Pooley, David Park, John Sullivan*
 
-## 1. Review and approval of Preservation Policy
+### 1. Review and approval of Preservation Policy
 
 * Preservation policy needed to join memberships, so mediastudies.press needs to have one. Project MUSE uses Portico, so that the PDF files are preserved.
 *  Video and audio needs to be preserved as well. Tim discussed various platforms designed for the preservation of multimedia content.
 * Jeff and Tim will have further discussions about this.
 * The Board voted unanimously to adopt the preservation policy.
 
-## 2. Review and approval of Peer Review Policy
+### 2. Review and approval of Peer Review Policy
 
 * Discussed methods of identifying different types of peer review.
 * Discussed using ORCID as a means of identifying authors and pee reviewers.
 * The Board voted unanimously to adopt the peer review policy.
 
-## 3. Review of 2020 Budget and Plan for 2021 Budget
+### 3. Review of 2020 Budget and Plan for 2021 Budget
 
 * The Board reviewed the 2020 budget and annual report.
 * Expenses are low right now, with the exception of design software (Adobe)
@@ -55,7 +55,7 @@
 * The Board discussed the pros and cons of selling mediastudies.press books on Amazon.
 * The Board voted unanimously to approve the 2021 budget.
 
-## 4.Discussion of upcoming books for 2021
+### 4.Discussion of upcoming books for 2021
 
 * *Cold War Communication Research* – scholarly monograph by Jeff Pooley
 * *Social Media and the Self* – an open reader that will exist only  online because of outbound links.
@@ -64,15 +64,15 @@
 * *Franklin Ford collection* (2022) -worked with Dewey, late 19th century scholar. Unpublished or obscurely published material.
 * Dave Park has pitched a project to Jeff Pooley; International Encyclopedia of Communication, 1989 (Erik Barnouw was the editor).
 
-## 5. Discussed OASPA and other memberships
+### 5. Discussed OASPA and other memberships
 
 * Tim mentioned Chris Kelty and models for releasing an online journal.
 
-## 6. Approval of new Advisory Board member, Sarah Kember
+### 6. Approval of new Advisory Board member, Sarah Kember
 
 * The Board voted unanimously to approve Sarah Kember as a new Advisory Board member.
 
-## 7. Financial sustainability of mediastudies.press
+### 7. Financial sustainability of mediastudies.press
 
 * Jeff suggested a follow up meeting on a library partnership program for more long term financial sustainability for mediastudies.press
 * Tim raised the issue of how labor is compensated in scholarly publishing
