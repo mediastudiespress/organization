@@ -34,7 +34,7 @@ Publisher may publish the Work in the following formats pursuant to this Agreeme
 * Mobi (open access)
 * html (open access)
 
-If the Work is to be sold as a paperback, Authors will not receive royalties.
+If the Work is to be sold as a paperback, Authors will not receive royalties. Any revenue that Publisher generates from the sale of printed editions shall be re-invested in the publication of new works that Publisher accepts for publication.
 
 ### Section 5: Publication Schedule
 
