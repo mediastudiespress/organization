@@ -9,6 +9,7 @@ The purpose of this repository is to provide models and resources for other scho
 ## Team
 
 * [Jeff Pooley](http://jeffpooley.com), director, mediastudies.press and professor of media & communication, Muhlenberg College (Allentown, PA, USA)
+* [David Park](https://www.lakeforest.edu/academics/faculty/park/), associate director, mediastudies.press and professor of communication, Lake Forest College (Lake Forest, IL, USA)
 
 ## Key Documents
 
