@@ -28,7 +28,7 @@ Sarah Kember
 
 Andreas Kirchner
 
-David Park
+Jussi Parikka
 
 Travis Rich
 
