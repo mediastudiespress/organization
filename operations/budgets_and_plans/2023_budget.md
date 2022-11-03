@@ -17,6 +17,7 @@ As of November 3, 2022, mediastudies.press has an **account balance** of:
 * **Publishing platform** (PubPub, estimated): $1,150
 * **DOI registration** (CrossRef): $299.45
 * **Style guide service** (Chicago Manual of Style): $41
+* **Reviewer honoraria:** $400
 * **Software** (Adobe CC, email, automation, cloud, translation): $1,150
 * **Permissions charges** (various): $150
 * **Business license fee** (City of Bethlehem): $25
@@ -24,7 +25,7 @@ As of November 3, 2022, mediastudies.press has an **account balance** of:
 
 The **total estimated expenditures:**
 
-* $11,067.45
+* $11,467.45
 
 ## Income
 
