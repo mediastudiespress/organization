@@ -4,7 +4,7 @@
 
 ### Section 1. Parties
 
-This publishing agreement ("Agreement"), dated <<DATE>> ("Effective Date"), is between  mediastudies.press, organized under the Commonwealth of Pennsylvania with offices at 414 W. Broad St., Bethlehem, PA ("Publisher"), and <<NAME>> and <<NAME>> ("Authors").
+This publishing agreement ("Agreement"), dated <<DATE>> ("Effective Date"), is between mediastudies.press, organized under the Commonwealth of Pennsylvania with offices at 414 W. Broad St., Bethlehem, PA ("Publisher"), and <<NAME>> and <<NAME>> ("Authors").
 
 ### Section 2. Purpose of Agreement
 
@@ -31,7 +31,6 @@ Publisher may publish the Work in the following formats pursuant to this Agreeme
 * Paperback print book (for sale at a price determined by Publisher)
 * PDF (open access)
 * ePub (open access)
-* Mobi (open access)
 * html (open access)
 
 If the Work is to be sold as a paperback, Authors will not receive royalties. Any revenue that Publisher generates from the sale of printed editions shall be re-invested in the publication of new works that Publisher accepts for publication.
@@ -56,7 +55,7 @@ Authors will provide a list of all content in the Work not original to Authors, 
 
 ### Section 7: Funding
 
-The Publisher does not charge Book Processing Charges (BPCs) on principle, and all editorial decisions are made strictly on the basis of merit. Authors are, however, required to make a good faith effort to secure institutional or other funds to help defray the cost of publication (which is typically costs $5,000). Many institutions, and some national funding agencies, have funds set aside to support open access publication. Publisher will work with Authors to provide leads, though Authors agree to take primary responsibility for the attempt to secure funding.
+The Publisher does not charge Book Processing Charges (BPCs) on principle, and all editorial decisions are made strictly on the basis of merit. Authors are, however, required to make a good faith effort to secure institutional or other funds to help defray the cost of publication (which typically costs $5,000). Many institutions, and some national funding agencies, have funds set aside to support open access publication. Publisher will work with Authors to provide leads, though Authors agree to take primary responsibility for the attempt to secure funding.
 
 ### Section 8: Marketing Efforts of Authors and Publisher
 
