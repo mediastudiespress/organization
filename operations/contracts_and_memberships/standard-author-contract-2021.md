@@ -55,7 +55,11 @@ Authors will provide a list of all content in the Work not original to Authors, 
 
 ### Section 7: Funding
 
+<<<<<<< master
 The Publisher does not charge Book Processing Charges (BPCs) on principle, and all editorial decisions are made strictly on the basis of merit. Authors are, however, required to make a good faith effort to secure institutional or other funds to help defray the cost of publication (which typically costs $5,000). Many institutions, and some national funding agencies, have funds set aside to support open access publication. Publisher will work with Authors to provide leads, though Authors agree to take primary responsibility for the attempt to secure funding.
+=======
+The Publisher does not charge Book Processing Charges (BPCs) on principle, and all editorial decisions are made strictly on the basis of merit. Authors are, however, required to make a good faith effort to secure institutional or other funds to help defray the cost of publication (which typically costs around $5,000). Many institutions, and some national funding agencies, have funds set aside to support open access publication. Publisher will work with Authors to provide leads, though Authors agree to take primary responsibility for the attempt to secure funding.
+>>>>>>> origin/master
 
 ### Section 8: Marketing Efforts of Authors and Publisher
 
